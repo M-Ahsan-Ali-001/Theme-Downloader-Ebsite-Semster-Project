@@ -1,6 +1,6 @@
 # Project Name / Title: 
 Alpha Themes 
-#Introduction: 
+# Introduction: 
 We will design a HTML based website in which we will use different Html tags and CSS styles and JavaScript codes, this website will provide variety of themes to people  
 Project Description: Our project will open with a webpage that will have four buttons, we  will apply hover effect using CSS-Style, when user will  click on that button a drop down list will be displayed on the screen, we will attach different web pages to the options available in  drop down menu. After that user will be able to select themes according to their choice as we will make a form using php. 
 # Motivation: 
