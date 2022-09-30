@@ -10,4 +10,5 @@ For layout we will use CSS flex box, we will write name of our website in header
    
 # Summary:
 Our website is going to be a simple website, but we will use different CSS styles, HTML tags, PHP codes and JavaScript codes to design our website. Our website will provide variety of themes to users.  
+![web1](https://user-images.githubusercontent.com/91987110/193249555-189e2762-61cc-4cea-b71f-fc1d782159d9.jpg)
 
